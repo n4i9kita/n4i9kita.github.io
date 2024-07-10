@@ -1,0 +1,55 @@
+[
+    {
+        "id": 1,
+        "tagId": 1,
+        "title": "Technology",
+        "entries": [
+            {
+                "date": "2024-06-15",
+                "subheading": "Deep Learning",
+                "content": "Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum."
+            },
+            {
+                "date": "2024-06-20",
+                "subheading": "Building GK Master App",
+                "content": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed auctor, magna a bibendum bibendum, augue magna tincidunt enim, eget ultricies magna augue eget risus. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae; Aliquam non elit a dui aliquam tincidunt."
+            }
+        ]
+    },
+    {
+        "id": 2,
+        "tagId": 2,
+        "title": "Marketing 101",
+        "entries": [
+            {
+                "date": "2024-06-01",
+                "subheading": "Marketing Mumma",
+                "content": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed auctor, magna a bibendum bibendum, augue magna tincidunt enim, eget ultricies magna augue eget risus. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae; Aliquam non elit a dui aliquam tincidunt."
+            }
+        ]
+    },
+    {
+        "id": 3,
+        "tagId": 3,
+        "title": "Brain & Mind",
+        "entries": [
+            {
+                "date": "2024-06-05",
+                "subheading": "Mind1010",
+                "content": "Praesent id dolor non erat egestas ultricies. Nulla facilisi. Sed euismod, nulla sit amet aliquam lacinia, nisl nisl aliquam nisl, nec aliquam nisl nisl sit amet nisl. Sed euismod, nulla sit amet aliquam lacinia, nisl nisl aliquam nisl, nec aliquam nisl nisl sit amet nisl."
+            }
+        ]
+    },
+    {
+        "id": 4,
+        "tagId": 2,
+        "title": "Marketing Papa",
+        "entries": [
+            {
+                "date": "2024-06-10",
+                "subheading": "Marketing Influecers",
+                "content": "Ut fringilla dolor id nibh ultricies, id faucibus nulla malesuada. Nulla facilisi. Sed euismod, nulla sit amet aliquam lacinia, nisl nisl aliquam nisl, nec aliquam nisl nisl sit amet nisl. Sed euismod, nulla sit amet aliquam lacinia, nisl nisl aliquam nisl, nec aliquam nisl nisl sit amet nisl."
+            }
+        ]
+    }
+]

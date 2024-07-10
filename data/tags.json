@@ -1,0 +1,18 @@
+[
+    {
+        "id": 1,
+        "name": "Technology"
+    },
+    {
+        "id": 2,
+        "name": "Marketing"
+    },
+    {
+        "id": 3,
+        "name": "Cognitive Science"
+    },
+    {
+        "id": 4,
+        "name": "Learnings"
+    }
+]
